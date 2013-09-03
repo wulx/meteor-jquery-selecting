@@ -4,6 +4,7 @@ if (Meteor.isClient) {
   };
   Template.hello.rendered = function () {
     $('#selecting').selecting({
+      debug: true,
       bare: false,
       remote: {
         url: '/example.json',
@@ -11,6 +12,7 @@ if (Meteor.isClient) {
       }
     });
     $('#selecting_bare').selecting({
+      debug: true,
       remote: {
         url: '/example.json',
         data: {}
