@@ -1,0 +1,3 @@
+[submodule "lib/jquery-selecting"]
+	path = lib/jquery-selecting
+	url = git://github.com/wulx/jquery-selecting.git

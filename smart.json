@@ -1,0 +1,9 @@
+{
+  "name": "jquery-selecting",
+  "description": "selecting -- a jquery plugin for chained selecting, coded by CoffeeScript.",
+  "homepage": "https://github.com/wulx/meteor-jquery-selecting",
+  "author": "Gurdy Woo (https://github.com/wulx/)",
+  "version": "0.1.0",
+  "git": "https://github.com/wulx/meteor-jquery-selecting.git",
+  "packages": {}
+}
