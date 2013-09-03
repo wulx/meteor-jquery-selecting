@@ -1,0 +1,10 @@
+{
+  "meteor": {
+    "branch": "master"
+  },
+  "packages": {
+    "jquery-selecting" : {
+      "path": "../../../meteor-jquery-selecting"
+    }
+  }
+} 

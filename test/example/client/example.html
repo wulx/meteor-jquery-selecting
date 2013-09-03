@@ -1,0 +1,18 @@
+<head>
+  <title>example</title>
+</head>
+
+<body>
+  {{> hello}}
+</body>
+
+<template name="hello">
+  <h1>Hello World!</h1>
+  {{greeting}}
+  <div id="selecting"></div>
+  <div id="selecting_bare">
+    <select name="univ"><option>university</option></select>
+    <select name="campus"><option>campus</option></select>
+    <select name="dorm"><option>dormitory</option></select>
+  </div>
+</template>
